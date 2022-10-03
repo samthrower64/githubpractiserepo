@@ -11,7 +11,7 @@ Further _readme.md_ update to __show how README.md__ files can be ___given tags 
 [Big shoutout to my good friend Google for helping discover this](https://www.google.com).
 
 
-What have I learned today? | 
+First Header | Second Header 
  ------------ | ------------- 
-How to create/sign in to GitHub | 
-How to create/edit/format a README.md file | 
+Content from cell 1 | Content from cell 2 
+Content in the first column | content in the second column
